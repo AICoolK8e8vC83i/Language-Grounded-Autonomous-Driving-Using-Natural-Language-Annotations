@@ -1,7 +1,8 @@
 SOTA Architecture to Finish (Clean Up Efficiently with Freedom Block first thing in the morning and try to finish within a day whenever I get around to it) 
 
+** HUGE NOTE: Make Sure Once we Finish Code to Reach out Early so we have someone who can endorse us for our ArXiv Paper. Can be UCR faculty, researchers , etc**
 
 -1.) Download ANY Near Crash Compailtion / Video Collection with One Also Crash Scene [ Load in Intern VL 3.5 2B VLM ] --> 2.) [ Pip install FAISS for similarity searching ] --
 ---> 3.) [ Run the Intern VL 3.5 2B with OpenCv on all the frames ] --> 3 Higher ++ [ Utilize .pooler_output() to get internvL 3.5 2B embeddings and store them in a cache (.npz or .csv) ] 
 --> 4.) [ Run Intern VL 3.5 2B with if cache FAISS > 95% (to avoid car crashes) ] --> [ Print Speed of Responses over time T for X frames with vs without cache (done by averaging the time with cache versus time where no cache). Also show crach vs near crash ]
---> 5.) Paper Writing (Show Model ARchitecture, Image Scenes of Cache working and the previous response applied to the current image frame, Cache Speedup Rate] --> 6.) Submit to ArXiv cs.Ai!
+--> 5.) Paper Writing (Show Model ARchitecture, Image Scenes of Cache working and the previous response applied to the current image frame, Cache Speedup Rate] --> 6.) Submit to ArXiv!
